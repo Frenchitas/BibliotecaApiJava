@@ -3,7 +3,6 @@ package com.example.BibliotecaApi.controller;
 import com.example.BibliotecaApi.entities.Libro;
 import com.example.BibliotecaApi.service.LibroService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
